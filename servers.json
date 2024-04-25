@@ -1,0 +1,12 @@
+[
+    {
+      "action": false,
+      "color": "FF0000",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "MARTINI BONUS",
+      "online": 5,
+      "ip": "194.93.2.226",
+      "port": 1492
+    }
+}
